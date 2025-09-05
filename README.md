@@ -44,8 +44,7 @@ directory. As long as your user can run `ping`, `bash` and `awk`, then
 
 Alternatively, you can download the latest tarball from GitHub: [![Latest release](https://img.shields.io/github/release/denilsonsa/prettyping.svg)](https://github.com/denilsonsa/prettyping/releases/latest)
 
-For people building a `prettyping` package (for any Linux distro or for Mac OS
-X), just install the `prettyping` script into `/usr/bin/`, or whatever
+For people building a `prettyping` package (for any Linux distro or for Mac OS X), just install the `prettyping` script into `/usr/bin/`, or whatever
 directory is appropriate. No other file is necessary.
 
 ### ZSH Frameworks
